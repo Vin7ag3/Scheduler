@@ -16,10 +16,8 @@ $(document).ready(function () {
                 textarea.addClass("past");
             } else if (blockHour === currentHour) {
                 textarea.addClass("present");
-            } else if (blockHour >= 13 && blockHour <= 17) {
-                textarea.addClass("future");
             } else {
-                textarea.addClass("past");
+                textarea.addClass("future");
             }
         });
 }
