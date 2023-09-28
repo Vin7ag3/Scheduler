@@ -7,8 +7,8 @@ Simple calendar application that allows a user to save events for each hour of a
 ## Installation
 
 ![Opera Snapshot_2023-09-22_005449_vin7ag3 github io](https://github.com/Vin7ag3/scheduler/assets/48032663/1e146a51-b788-4329-8809-58104220cadc)
-Repository - https://github.com/Vin7ag3/scheduler
-deployed page - https://vin7ag3.github.io/scheduler/
+Repository - https://github.com/Vin7ag3/workdayscheduler
+deployed page - https://vin7ag3.github.io/workdayscheduler/
 
 ## Usage
 
