@@ -3,8 +3,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-
+```
 Simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+```
+This is an interactive workday scheduler developed with HTML, CSS, and JavaScript. Users simply click on the desired hour block to input event details in a text box. JavaScript ensures persistent storage of events, preventing data loss even when users close the page. Saved events are easily accessible upon return, facilitating updates or modifications. Additional features include color-coded event viewing for different time of the day, enhancing organization. The scheduler dynamically responds to real-time user input, reflecting changes. 
+
+![Opera Snapshot_2023-11-17_185951_vin7ag3 github io](https://github.com/Vin7ag3/workdayscheduler/assets/48032663/0876dc7a-7b25-4d54-ab34-ec42dc39ac2b)
 
 ## Table of Contents:
 
@@ -44,6 +48,6 @@ None
 
 ## Contact Information
 
-Github Username: Vin7ag3
+[GitHub](https://github.com/Vin7ag3)
 
 Contact E-mail: vincepeo@yahoo.com
